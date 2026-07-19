@@ -93,13 +93,13 @@ Are you a VIT Bhopal student interested in contributing to the intersection of t
 ### 📬 Connect With Us
 
 <div align="left">
-  <a href="https://instagram.com/aibio_vit">
+  <a href="https://instagram.com/neurobyte.vitb">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://linkedin.com">
+  <a href="[https://linkedin.com](https://www.linkedin.com/company/neurobyte-society-vitb)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:sponsorships@vit-aibio.club">
+  <a href="mailto:adil.25mib10056@vitbhopal.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
@@ -109,3 +109,4 @@ Are you a VIT Bhopal student interested in contributing to the intersection of t
 <div align="center">
   <i>Maintained with ❤️ by the NeuroByte Society Core Team</i>
 </div>
+
