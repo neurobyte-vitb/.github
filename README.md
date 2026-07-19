@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- If you upload your logo to GitHub, replace this URL with your raw image link -->
-  <img src="1000474323.jpeg" width="150" alt="NeuroByte Logo">
+  <img src="https://raw.githubusercontent.com/The-NeuroByte-Society/.github/452b61a1058036f16ae86c107f7189ffd1196e12/1000474323.jpg.jpeg" width="150" alt="NeuroByte Logo">
 
   <h1>🧬 NeuroByte Society</h1>
   <strong>Vellore Institute of Technology (VIT) Bhopal</strong><br>
