@@ -43,18 +43,31 @@ We work across a variety of modern computational and biological frameworks:
 
 ---
 
-## 🚀 Open Source Projects & Research
+## 🚀 Upcoming Projects & Research
 
-Welcome to our project hub! Below is the directory of our ongoing and planned technical projects. We actively encourage contributions from our members and the open-source community.
+Welcome to our project hub! Below is the directory of the innovative technical projects our club will be working on throughout the academic year. These projects combine Artificial Intelligence, Bioinformatics, Biotechnology, Healthcare, Robotics, and Embedded Systems. 
 
-| Project Name | Domain | Status | Description | Repository |
-| :--- | :--- | :---: | :--- | :---: |
-| **`AI-Drug-Discovery`** | Deep Learning / Pharma | 🚧 *In Progress* | Developing AI-driven drug discovery models to identify novel therapeutic targets. | [🔗 Link](#) |
-| **`Genomic-Pipelines`** | Bioinformatics | 📝 *Planned* | High-throughput genomic data analysis pipelines for scalable sequence processing. | [🔗 Link](#) |
-| **`Comp-Tox-Models`** | Computational Toxicology | 🔬 *Research* | Codebase for computational toxicology research papers targeting top-tier academic journals. | [🔗 Link](#) |
-| **`BioEvolution-Sim`** | Simulation / Python | ✅ *Completed* | The base simulation engine used for our BioEvolution Ideation Challenge. | [🔗 Link](#) |
+We actively encourage our members from different domains to collaborate and contribute to these real-world problem-solving initiatives through research, prototyping, and hackathons. 
 
-*(Note: Click the links to navigate to the respective project repositories.)*
+*(Note: These projects are currently in the planning and research phase. Repositories and codebase links will be updated here as development officially begins.)*
+
+| Project Name | Domain | Status | Description |
+| :--- | :--- | :---: | :--- |
+| **Robotic Arm** | Robotics / Embedded | 📝 *Planned* | Design and develop a robotic arm for automation and precision tasks. |
+| **AI-Powered Drug Discovery Tool** | AI / Pharma | 📝 *Planned* | Build an AI tool to assist in drug discovery, molecular screening, and prediction. |
+| **Nanomedicine** | Nanotech / Healthcare | 📝 *Planned* | Research and develop concepts related to nanotechnology in medicine and targeted drug delivery. |
+| **GMO / GMC** | Genetic Engineering | 📝 *Planned* | Explore applications of genetic engineering in Genetically Modified Organisms and Crops. |
+| **Protein 3D Visualization** | AR/VR / Structural Bio | 📝 *Planned* | Create an interactive platform to visualize protein structures using Augmented and Virtual Reality. |
+| **Genetic Ancestry Simulator** | Bioinformatics | 📝 *Planned* | Develop an NCBI-based simulator demonstrating genetic ancestry and evolutionary relationships. |
+| **AI-Driven CRISPR Demo** | AI / Gene Editing | 📝 *Planned* | Build a demonstration tool showcasing how AI can assist CRISPR gene-editing analysis and guide RNA selection. |
+| **Personalized Healthcare Device** | IoT / MedTech | 📝 *Planned* | Develop a personalized healthcare solution or smart monitoring take-home device. |
+| **Smart Plant Pot** | IoT / Smart Ag | 📝 *Planned* | Design an intelligent pot capable of monitoring soil moisture, temperature, humidity, and plant health. |
+| **Agricultural Sensors** | IoT / Smart Ag | 📝 *Planned* | Develop IoT-based sensors for smart farming and precision agriculture. |
+| **Cancer Diagnosis from Images** | AI / Medical Imaging | 📝 *Planned* | Apply AI and deep learning techniques for detecting cancer from medical imaging data. |
+| **ECG & EEG Signal Processing** | AI / Signal Processing | 📝 *Planned* | Analyze biomedical signals using artificial intelligence and digital signal processing techniques. |
+| **Portable ECG Machine** | Hardware / MedTech | 📝 *Planned* | Design and develop a compact, low-cost ECG monitoring device. |
+| **Biomedical 3D Printing** | 3D Printing / MedTech | 📝 *Planned* | Explore biomedical implants, prosthetics, and healthcare prototypes using 3D printing technology. |
+| **Biosensors** | Biotech / Hardware | 📝 *Planned* | Develop biosensor-based systems for healthcare, environmental monitoring, or disease detection. |
 
 ---
 
